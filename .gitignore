@@ -1,0 +1,12 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Sphinx build output
+docs/_build/
+
+# OS/editor
+.DS_Store
+.vscode/
+
+./remysedlak.com
