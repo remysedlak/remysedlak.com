@@ -10,8 +10,6 @@ I'm always open to discussing new opportunities, interesting projects, or just h
 
 **GitHub:** [github.com/remysedlak](https://github.com/remysedlak)
 
-**Resume:** [Google Drive](https://drive.google.com/file/d/1-gW3kevUAv6ImxSWIZgw-VO9A38-KFCk/view)
-
 ---
 
 ## What I'm Interested In

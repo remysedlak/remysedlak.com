@@ -1,4 +1,6 @@
-# CV & Experience
+# CV & Resume
+
+[Download Resume](https://drive.google.com/file/d/1-gW3kevUAv6ImxSWIZgw-VO9A38-KFCk/view)
 
 ## Education
 
