@@ -4,74 +4,46 @@
 
 ## Education
 
-**University of Pittsburgh** | School of Computing and Information
-- B.S. in Computer Science & Minor in Computer Engineering
-- Status: Junior (2026)
-- Focus: Intersection of technology and human behavior
+**University of Pittsburgh** | School of Computing and Information  
+B.S. in Computer Science, Minor in Computer Engineering  
+Junior (2026), focused on the intersection of technology and human behavior.
 
 ## Professional Experience
 
-### Internship (Data Engineering & LLM Systems)
+### Data Engineering & LLM Systems Intern
 **AssetGenie Inc. (AGI)** | 16 weeks (2026)
 
-Built an automated data pipeline to cluster company support tickets at scale. Leveraged open-source ML models and OpenAI tools to identify recurring system support issues. Produced signal-rich documentation for the support platform’s RAG chatbot to improve troubleshooting and reduce technician workload.
+- Built an automated pipeline that clustered support tickets at scale and reduced manual triage effort.
+- Surfaced recurring issue patterns with open-source ML and OpenAI tooling, improving RAG troubleshooting quality.
 
 ### Peer Tutor & Teaching Assistant
 **University of Pittsburgh, SCI** | 1+ years (2026)
 
-Provided one-on-one tutoring sessions for SCI courses, guiding students through fundamental and advanced programming concepts. Strengthened students' problem-solving and debug skills while developing strong technical communication abilities.
+- Delivered one-on-one SCI tutoring across introductory and advanced topics, improving student debugging outcomes.
+- Helped students build stronger problem-solving habits and complete coursework with greater independence.
 
-### Internship (Backend/Data Engineering)
+### Backend / Data Engineering Intern
 **AssetGenie Inc. (AGI)** | 12 weeks (2025)
 
-Focused on backend development and data engineering. Contributed to enhancing internal operations by designing and implementing automated data processing solutions. Collaborated closely with engineers and directors to improve system performance, streamline workflows, and strengthen database management processes.
+- Implemented automated data workflows that streamlined internal operations and reduced repetitive processing.
+- Improved backend performance and database reliability through cross-functional collaboration.
 
-### Internship (Python Automation)
+### Student Research Programmer
+**University of Pittsburgh - Learning Research and Development Center** | June 2025 - August 2025 | Pittsburgh, PA
+
+- Researched and implemented privacy-preserving data sanitization techniques for ChatGPT-powered voice assistants.
+- Developed prompt engineering scripts that improved context retention and conversational flow for Alexa Skills Kit integrations.
+- Collaborated on dialogue optimization strategies to improve user experience in AI communication systems.
+
+### Python Automation Intern
 **AssetGenie Inc. (AGI)** | 8 weeks (2024)
 
-First technical internship building Python automation tools integrated with GitLab and Excel to streamline data processing workflows. Gained hands-on experience in data engineering, scripting, and backend development, enhancing operational efficiency across teams. Worked in fast-paced environment, collaborating with engineers to optimize automation processes and improve internal data management systems.
-
-### Warehouse Associate
-**Fayette Service Parts Inc.** | 1+ years (2022-2023)
-
-Managed inventory for over 25+ NAPA automotive stores. Gained experience in logistics, supply chain operations, and data tracking, ensuring accurate inventory management in a high-demand environment. Developed strong problem-solving skills by troubleshooting logistical challenges and optimizing warehouse efficiency.
-
-## Hackathon Achievements
-
-### Second Place - AI in Action Hackathon (AIAH)
-**Robert Morris University** | 3 weeks (2025)
-
-Collaborated with mentor Nigel and sponsor CacheAI to develop a functional AI chatbot helping file and find small business tax forms. Model was trained on IRS form metadata and sample conversations, with template responses ensuring client safety. Built with React, FastAPI, and Sentence-Transformers.
-
-### Third Place - SteelHacks 2025
-**University of Pittsburgh** | 24 hours (2025)
-
-Collaborated with data scientists to develop an ML anxiety predictor web app for students in the "Predict the Unpredictable" track. Built with React, TensorFlow.js, and Tailwind CSS.
-
-### Honorable Mention - Hacking4Humanity 2025
-**Hacking4Humanity** | 2 weeks (2025)
-
-Developed an AI-powered deepfake detection model focused on political misinformation. Presented work at Pennsylvania's Governor's Residence in Harrisburg, including presentation to First Lady Lori Shapiro. Deepened passion for AI ethics, adversarial machine learning, and responsible AI development.
+- Built Python automation tooling integrated with GitLab and Excel to accelerate recurring data tasks.
+- Increased team efficiency by standardizing high-frequency workflow steps.
 
 ## Technical Skills
 
-**Languages & Frameworks:**
-- React, FastAPI, Elm, Python, Rust, JavaScript/TypeScript
-
-**AI & Machine Learning:**
-- TensorFlow, TensorFlow.js, Sentence-Transformers, HuggingFace
-
-**Tools & Platforms:**
-- SQLite, Chrome Extension, GitLab, Tailwind CSS, Git
-
-**Specializations:**
-- Native app development, functional programming, data visualization
-- Full-stack development, AI/ML implementation, automation scripting
-
-## Interests & Values
-
-- AI ethics and responsible AI development
-- Green computing and efficient algorithms
-- Accessibility and inclusive software design
-- Open source software and data ownership
-- Music production and nature exploration
+**Languages & Frameworks:** React, FastAPI, Elm, Python, Rust, JavaScript/TypeScript  
+**AI & Machine Learning:** TensorFlow, TensorFlow.js, Sentence-Transformers, HuggingFace  
+**Tools & Platforms:** SQLite, Chrome Extensions, GitLab, Tailwind CSS, Git  
+**Specializations:** Native app development, functional programming, data visualization, full-stack development, AI/ML implementation, automation scripting

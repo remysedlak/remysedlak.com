@@ -10,3 +10,7 @@ docs/_build/
 .vscode/
 
 ./remysedlak.com
+# Local Netlify folder
+.netlify
+
+.env

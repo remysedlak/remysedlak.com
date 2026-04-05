@@ -1,20 +1,14 @@
-# Remy Sedlak
+# Welcome to My Portfolio!
 
-Welcome to my developer portfolio. This site highlights my featured projects, professional experience, and engineering interests.
+This developer portfolio highlights featured projects, professional experience, and engineering interests.
 
 ## Focus Areas
 
-- App development with emphasis on efficiency
-- Accessibility and inclusive design
-- ML and deep learning applications
-- Embedded systems and microcontrollers
+I focus on app development with an emphasis on efficiency, accessibility, and inclusive design, with a strong interest in machine learning, deep learning applications, and embedded systems.
 
 ## Featured Work
 
-- Multiple hackathon winners and award-winning projects
-- AI applications including deepfake detection and anxiety prediction
-- Full-stack development across React, Rust, FastAPI, and more
-- Open source contributions and community mentoring
+My work includes multiple award-winning hackathon projects, AI applications such as deepfake detection and anxiety prediction, and full-stack builds across React, Rust, and FastAPI, alongside open source contributions and community mentoring.
 
 ```{toctree}
 :maxdepth: 1

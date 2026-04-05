@@ -18,10 +18,7 @@ I enjoy mentoring others and exchanging knowledge. I believe that technology is 
 
 I care about **green computing**, **efficient algorithms**, and **accessibility**. I aim to make software that's fast, lightweight, and easy for everyone to use. Originally a psychology major, I care about making software that improves the human experience and education.
 
-Some of my favorite areas of software design include:
-- Native app development
-- Functional programming
-- Data visualization
+Some of my favorite areas of software design include native app development, functional programming, and data visualization.
 
 I enjoy working on projects that combine these elements to create fast and intuitive interfaces.
 
@@ -33,13 +30,8 @@ I prioritize open source software and ownership of data in technology. This has 
 
 ## Education
 
-- **University of Pittsburgh**
-- B.S. in Computer Science & Minor in Computer Engineering
-- Status: Junior (2026)
-- Focus: Intersection of technology and human behavior
+I study at the **University of Pittsburgh**, pursuing a B.S. in Computer Science with a minor in Computer Engineering. As a junior (2026), I focus on work at the intersection of technology and human behavior.
 
 ## Key Skills & Focus Areas
 
-- **Technical:** App development, efficiency, accessibility, green computing
-- **Specializations:** Native app development, functional programming, data visualization
-- **Values:** AI ethics, open source software, data ownership, inclusive technology
+My technical focus is app development with an emphasis on efficiency, accessibility, and green computing. I specialize in native app development, functional programming, and data visualization, and I care deeply about AI ethics, open source software, data ownership, and inclusive technology.

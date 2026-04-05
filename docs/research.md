@@ -7,14 +7,11 @@
 
 ## Talks and Posters
 
-- Talk title, conference/workshop, year
-- Poster title, symposium, year
+This section will include talks and posters with venue and year details as they are finalized.
 
 ## Ongoing Topics
 
-- Systems benchmarking methodology
-- Reliability modeling in distributed services
-- Tooling for reproducible infrastructure experiments
+Current interests include systems benchmarking methodology, reliability modeling in distributed services, and tooling for reproducible infrastructure experiments.
 
 ## Notes
 

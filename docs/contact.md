@@ -14,9 +14,4 @@ I'm always open to discussing new opportunities, interesting projects, or just h
 
 ## What I'm Interested In
 
-- AI and machine learning applications
-- Software systems and embedded architecture
-- Full-stack development projects
-- Open source contributions
-- Teaching and mentoring
-- AI ethics and responsible AI development
+I'm especially interested in AI and machine learning applications, software systems and embedded architecture, full-stack development projects, open source contributions, teaching and mentoring, and responsible AI development.
